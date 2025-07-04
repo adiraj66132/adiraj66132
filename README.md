@@ -1,6 +1,22 @@
 # 💫 About Me:
-<br><br>👋 Hi, I’m @adiraj66132<br><br>🚀 I'm a passionate Full Stack Developer and C/C++ Programmer who thrives in Linux environments.<br><br>👀 I’m interested in building robust backend systems, sleek frontends, and exploring systems programming, open-source contributions, and low-level optimizations.<br><br>🌱 I’m currently diving deeper into:<br><br>    Advanced C++ (Modern C++ features, STL, multithreading)<br>    Scalable backend architectures (Python, Node.js)<br>    React + Tailwind for stunning frontends<br>    Linux shell scripting and system-level programming<br><br>💞️ I’m looking to collaborate on:<br><br>    Full-stack web applications<br>    Performance-critical C/C++ projects<br>    Developer tools and open-source Linux utilities<br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: I love tweaking dotfiles, customizing my Linux desktop, and turning coffee into code.<br>
+# 👋 Hi, I’m @adiraj66132
 
+🚀 I'm a passionate Full Stack Developer & C/C++ Programmer thriving in Linux.
+
+🌱 Currently diving deeper into:
+- Modern C++ (STL, multithreading)
+- Scalable backends (Python, Node.js)
+- Frontends with React + Tailwind
+- Linux scripting & system programming
+
+💞️ Looking to collaborate on:
+- Full-stack web apps
+- Performance-heavy C/C++ projects
+- Open-source Linux tools
+
+⚡ Fun fact: I love tweaking dotfiles & customizing my Linux desktop.
+
+😄 Pronouns: He/Him
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/blazefox_2) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@Adiraj-Kashyap-the-reactor) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adirajk03@gmail.com) 
