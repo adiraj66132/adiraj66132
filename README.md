@@ -1,6 +1,3 @@
-# 💫 About Me:
-# 👋 Hi, I’m @adiraj66132
-
 🚀 I'm a passionate Full Stack Developer & C/C++ Programmer thriving in Linux.
 
 ⚡ Fun fact: I love tweaking dotfiles & customizing my Linux desktop.
